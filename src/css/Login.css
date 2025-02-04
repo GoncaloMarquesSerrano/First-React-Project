@@ -1,0 +1,19 @@
+.registo-link {
+    color: #007bff; 
+    text-decoration: underline; 
+    cursor: pointer; 
+  }
+  
+  .registo-link:hover {
+    color: #0056b3; 
+  }
+
+.grid-container {
+  display: grid;
+  grid-template-rows: auto 1fr auto; 
+  height: 100vh; 
+}
+
+.content {
+  padding: 20px; 
+}

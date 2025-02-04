@@ -1,0 +1,5 @@
+.nav-centered {
+    display: flex;
+    justify-content: center;
+    flex-direction: column; /* Para empilhar os dropdowns verticalmente */
+  }
